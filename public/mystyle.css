@@ -1,0 +1,86 @@
+.div1{text-align: right;}
+
+marquee{
+	background-color:#21D7D4 ;
+	border-radius: 15px;
+	font-family:cursive;
+	font-size:16px;color: rgb(37, 36, 36); 
+	font-style: italic;
+	font-variant: small-caps;
+}
+
+.button {
+	background-color: #ffc347;
+	border-radius: 12px;
+	width: 250px; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s; 
+	transition-duration: 0.4s;
+  }
+  
+  .button1:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+  .disabled {
+	opacity: 0.6;
+	cursor: not-allowed;
+  }
+
+
+#data{
+	text-align:center;
+	font-family:capitalize;
+	font-size:20px;
+	
+}
+
+#paragraph{
+	margin-left: 60px;
+	
+	font-family:capitalize;
+	font-size:20px;
+}
+	
+#member{
+	text-align:center;
+	font-family:capitalize;
+	font-size:30px;
+	color: white; 
+	font-style: bold;
+	font-variant: small-caps;
+}
+@import 'https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@300&display=swap';
+font1{
+	
+	font-family: 'IBM Plex Sans Thai', sans-serif;
+	color:rgb(49, 49, 49)
+}
+
+font2{
+	
+	font-family: 'IBM Plex Sans Thai', sans-serif;
+	color:rgb(23, 23, 23)
+}
+
+font3{
+	
+	font-family: 'IBM Plex Sans Thai', sans-serif;
+	font-size:30px;
+	color:rgb(23, 23, 23)
+	
+}
+
+
+
+
+
+
